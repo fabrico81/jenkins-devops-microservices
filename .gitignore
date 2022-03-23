@@ -1,0 +1,11 @@
+.idea/
+*.iml
+classes/
+.classpath
+.project
+.settings/
+target/
+**/features/generated/*
+**/template/generated/*
+**/features/parallel/generated/*
+dependency-reduced-pom.xml
